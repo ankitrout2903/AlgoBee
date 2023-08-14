@@ -61,6 +61,9 @@ Run the following command:
 ```bash
 poetry run python textbase/textbase_cli.py test main.py
 ```
+Added Feature now we can run some codes defined in the databases and test its test cases
+<img width="960" alt="Screenshot 2023-08-14 153316" src="https://github.com/ankitrout2903/textbase2.0/assets/88599131/32ce8d4f-8f84-4e26-b70b-168bab2be55a">
+
 
 Now go to [http://localhost:4000](http://localhost:4000) and start chatting with your bot! The bot will automatically reload when you change the code.
 
