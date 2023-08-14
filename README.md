@@ -6,6 +6,14 @@ Just implement the `on_message` function in `main.py` and Textbase will take car
 
 Since it is just Python you can use whatever models, libraries, vector databases and APIs you want.
 
+#AlgoBee🐝🫠
+
+- This is a Ai powered coding buddy made with the help of textbase library for mercor Chatbot Challenge 2.0 
+- There is a inbuilt compiler and a chatbot assitant to help aspiring engineers prepare for their coding journey
+- This project(prototype) helps student learn and mentor in their dsa/coding journey
+- Intended Target audience Class 6 to 2nd year college students,
+- It helps in taking assesment, giving hints ,finding errors/bugs 
+
 ## MY contribution
 
 this is a Ai interview chat bot application coding buddy made whith the help of mercor textbase library has a Inbuilt text editor 
