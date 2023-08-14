@@ -48,7 +48,7 @@ npm start
 
 ```
 
-due to my knowledge expertise in javascript and node js so i made the compiler backend api in nodejs as I had less time for hackathon laer the architecture will be improved and will be optimised as this is just a prototype
+due to my knowledge expertise in javascript and node js so i made the compiler backend api in nodejs as I had less time for hackathon later the architecture will be improved and will be optimised as this is just a prototype
 
 
 
