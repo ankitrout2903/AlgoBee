@@ -12,12 +12,7 @@ this is a Ai interview chat bot application coding buddy made whith the help of 
 
 https://www.loom.com/share/9f7a9bcd6ece42fa919b7407caaf3200?sid=fdeb7f14-7f76-4097-9167-e8c24e143efc
 
-_Coming soon:_
 
-- [ ] PyPI package
-- [ ] SMS integration
-- [ ] Easy web deployment via `textbase deploy`
-- [ ] Native integration of other models (Claude, Llama, ...)
 
 ## Installation
 
@@ -29,6 +24,21 @@ cd textbase
 poetry shell
 poetry install
 ```
+
+start the compiler code
+```bash
+cd compiler
+cd client
+npm install
+npm run start
+cd ../server
+npm install
+npm start
+```
+
+due to my knowledge expertise in javascript and node js so i made the compiler backend api in nodejs as I had less time for hackathon laer the architecture will be improved and will be optimised as this is just a prototype
+
+
 
 ## Start development server
 
