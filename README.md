@@ -47,8 +47,10 @@ npm start
 # backend run at port 8080
 
 ```
-
-due to my knowledge expertise in javascript and node js so i made the compiler backend api in nodejs as I had less time for hackathon later the architecture will be improved and will be optimised as this is just a prototype
+## Note
+- Due to my knowledge expertise in javascript and node js so i made the compiler backend api in nodejs as I had less time for hackathon later the architecture will be improved and will be optimised as this is just a prototype
+- Also I am aware about that the compiler page is running on localhost:3000 because of my knowledge ceiling of React and Javascript and the Chat-app is made on NextJs and Typescript So I decided to make a different PORT and it Reduces Load balancing
+- Yeah it is a different architecture but due to knowledge and time constraints I have decided to take this step later by increasing my knowledge I will improve the code structure and architecture. 
 
 
 
