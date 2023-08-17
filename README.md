@@ -6,13 +6,21 @@ Just implement the `on_message` function in `main.py` and Textbase will take car
 
 Since it is just Python you can use whatever models, libraries, vector databases and APIs you want.
 
-#AlgoBee🐝🫠
+# AlgoBee🐝🫠
 
 - This is a Ai powered coding buddy made with the help of textbase library for mercor Chatbot Challenge 2.0 
 - There is a inbuilt compiler and a chatbot assitant to help aspiring engineers prepare for their coding journey
 - This project(prototype) helps student learn and mentor in their dsa/coding journey
 - Intended Target audience Class 6 to 2nd year college students,
 - It helps in taking assesment, giving hints ,finding errors/bugs 
+
+# What can algobee do / How can you use Algobee
+- can help you teach programming topics like array , strings.
+- can give asseement and test questions.
+- can give you hints while solving questions.
+- can give you approach how to solve a problem.
+- can solve problems for you.
+- can find errors and debug code for you.
 
 ## MY contribution
 
