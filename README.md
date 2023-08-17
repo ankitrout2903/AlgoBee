@@ -14,7 +14,7 @@ Since it is just Python you can use whatever models, libraries, vector databases
 - Intended Target audience Class 6 to 2nd year college students,
 - It helps in taking assesment, giving hints ,finding errors/bugs 
 
-# What can algobee do / How can you use Algobee
+# What can algobee do ? / How can you use Algobee ?
 - can help you teach programming topics like array , strings.
 - can give asseement and test questions.
 - can give you hints while solving questions.
